@@ -1,0 +1,48 @@
+{ 
+  "evenimente": {
+    "eveniment": [
+      {
+        "nume": "Licitatii cu monede",
+        "locatie": "  Bucuresti",
+        "descriere": "Licitatie moneda Mihai Viteazu",
+        "data" : "29.12.2016",
+        "site": "http://actualmm.ro"
+      },
+      {
+         "nume": "Bussines24",
+        "locatie": "  Bucuresti",
+        "descriere": "Licitatie moneda Mihai Viteazu",
+        "data" : "29.12.2017",
+        "site": "http://www.business24.ro/articole/licitatii+monede"
+      },
+      {
+        "nume": "Public24",
+        "locatie": "  Bucuresti",
+        "descriere": "Cumparare Monede",
+        "data" : "10.09.2017",
+        "site": "http://www.publi24.ro/anunturi/?q=cumpar+monede+vechi"
+      },
+      {
+        "nume": "Licitatii Catawiki",
+        "locatie": "  Online",
+        "descriere": "Licitatie monede",
+        "data" : "29.10.2017",
+        "site": "https://licitatie.catawiki.ro/categories/coins?utm_medium=cpc&utm_source=google&utm_term=%2Bmonede&utm_content=coins+GEN&utm_campaign=RO_RO_Category_GEN_FA_WK:Coins&aid=163832990867"
+      },
+      {
+        "nume": "Artmark",
+        "locatie": "  Bucuresti",
+        "descriere": "Licitatie monede",
+        "data" : "13.12.2017",
+        "site": "http://www.evz.ro/doua-galerii-de-arta-din-bucuresti-au-fost-perchezitionate-de-procurori-pe-fir-a-intrat-si-interpol.html"
+      },
+      {
+       	"nume": "Casa de licitații - Agerpres",
+        "locatie": "  Arges",
+        "descriere": "Licitatie",
+        "data" : "31.07.2017",
+        "site": "http://www.agerpres.ro/"
+      }
+    ]
+  }
+}
